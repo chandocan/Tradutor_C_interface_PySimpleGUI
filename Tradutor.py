@@ -1,5 +1,5 @@
 '''
- que presa para criar um app
+ que precisa para criar um app
 1 - um campo de texto para ser traduzido
 1 - um campo de texto para o que foi traduzido
 1 - selecionar a linguagem de entrada 
