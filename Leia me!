@@ -1,0 +1,13 @@
+para rodar em linux tem que da esse comando nessa pasta no terminal:
+
+/home/usuari/python_projetosAlfredo/Trabalho_Feito/build/exe.linux-x86_64-3.9/Tradutor
+
+no meu caso:
+
+/home/alfredo/python_projetosAlfredo/Trabalho_Feito/build/exe.linux-x86_64-3.9/Tradutor
+ou pois mudei a pasta
+/home/alfredo/python_projetosAlfredo/projetos_Terminados/MeuTradutor/build/exe.linux-x86_64-3.9/Tradutor
+
+sem a extenção py para o app funciona, ele esta em binario.
+
+no arquivo requirements tem as bibliotecas usadas para o arquivo fuciona de forma corretamente
